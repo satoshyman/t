@@ -1,0 +1,7 @@
+{
+  "name": "OLO Mining Mini App",
+  "description": "A high-end crypto mining mini-app for Telegram featuring glassmorphism design, task rewards, referrals, and a full admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
